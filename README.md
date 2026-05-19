@@ -19,7 +19,3 @@ This project is based on web automation using Selenium
 - grid Docker.xml
 - grouping.xml
 - master.xml
-=======
-# OpenCart
-First Complete Project
->>>>>>> 0dd244773f408d9529ee80ba955fb7486a7c0162
